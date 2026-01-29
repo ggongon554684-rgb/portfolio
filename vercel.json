@@ -1,5 +1,5 @@
 {
     "rewrites": [
-        { "source": "/(.*)", "destination": "/portfolio.html" }
+        { "source": "/(.*)", "destination": "bootsrap trial/porfolio.html" }
     ]
 }
